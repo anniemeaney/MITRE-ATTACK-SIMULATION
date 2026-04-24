@@ -1,7 +1,4 @@
-# MITRE-ATTACK-SIMULATION
-A Python simulation game centered around the Kingdom of Cyborgia. Deploy D3FEND countermeasures against escalating threats in this technical capstone. Features persistent states, budget management, and a modular architecture designed to bridge gamified learning with real-world cybersecurity.
-
-# MITRE ATT&CK Game: The Kingdom of Cyborgia
+# MITRE ATT&CK SIMULATION: Defending Cyborgia
 
 Welcome to the **MITRE ATT&CK Game**, a technical simulation where you serve as the Castellan of Cyborgia. Your mission is to protect the realm from the Shadow Guild by strategically deploying defenses based on the real-world MITRE framework.
 
