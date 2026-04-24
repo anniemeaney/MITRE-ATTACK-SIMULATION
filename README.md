@@ -27,8 +27,6 @@ The simulation is divided into three distinct phases to emphasize strategy and a
 ---
 
 ## 📁 Repository Structure
-Based on the project's public-facing distribution, the following files are included in each download:
-
 ```text
 ├── MacOS/
 │   ├── MITRE Game/            # Supporting assets for MacOS
