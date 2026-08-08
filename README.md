@@ -64,5 +64,5 @@ The Kingdom of Cyborgia is built on a flexible backend designed for growth. Futu
 ## 📚 Additional Resources
 For more information, please refer to the following documents included in your download:
 * **Teacher Resource Guide:** Detailed mapping of the simulation.
-* **User Guide:** Comprehensive walkthrough of all interface elements.
+* **User Manual:** Comprehensive walkthrough of all interface elements.
 * **Guidebook:** In-game button available to see a full breakdown of every defense.
