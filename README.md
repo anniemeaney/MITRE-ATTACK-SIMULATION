@@ -32,11 +32,9 @@ The simulation is divided into three distinct phases to emphasize strategy and a
 │   ├── MITRE Game/            # Supporting assets for MacOS
 │   ├── MITRE Game             # MacOS Application executable
 │   ├── MITRE Game Teacher Resource Guide.pdf
-│   └── MITRE Game User Guide.pdf
 ├── Windows OS/
 │   ├── MITRE Game.exe         # Windows Application executable
 │   ├── MITRE Game Teacher Resource Guide.pdf
-│   └── MITRE Game User Guide.pdf
 ├── README.md                  # Project overview and setup
 └── MITRE Game User Manual.pdf # Full system documentation
 ```
